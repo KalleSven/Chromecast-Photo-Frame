@@ -5,7 +5,7 @@ The script is more a proof of concept for anyone to be inspired by or develop fu
 - Filtering: Display only photos meeting or not meeting a certain criteria.
 - Webinterface for setting preferences
 
-I am using the script to cast photos from my Synology NAS to Chromecast, making my TV a photo frame displaying my photos randomly.
+I am using the script to cast photos from my Synology NAS to Chromecast, making my TV a photo frame displaying my photos randomly. The script is loaded at boot and will cast photos whenever my Chromecast is idle.
 
 # Dependencies
 - A Google Chromecast dongle
