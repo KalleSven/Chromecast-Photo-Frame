@@ -3,7 +3,6 @@ A Python script sending randomly picked photos from a computer or NAS to a Chrom
 
 The script is more a proof of concept for anyone to be inspired by or develop further. Features that could be useful are:
 - Filtering: Display only photos meeting or not meeting a certain criteria.
-- Cleaner code
 - Webinterface
 
 
