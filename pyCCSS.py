@@ -48,7 +48,9 @@ while True:
 		src = synoPath
 	else: 
 		src = next #If no Photo Station thumbnail is found, fall back on the original photo picked
-		
+	
+	if not os.path.exists("media"):
+	    os.makedirs("media")
 	shutil.copy(src,"media/media.jpg")
 
 	try:
